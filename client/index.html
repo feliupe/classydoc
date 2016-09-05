@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Hello World!</title>
+
+    <link rel="stylesheet" href="css/index.css" media="screen" title="no title" charset="utf-8">
+    <link rel="stylesheet" href="node_modules\bootstrap\dist\css\bootstrap.css" charset="utf-8">
+
+  </head>
+  <body>
+
+    <div class="main-content container text-center">
+
+        <h1 >Upload a file</h1>
+
+        <div class="file-input input-group">
+
+          <input class="form-control" type="text" placeholder="The file...">
+
+          <span class="upload-button input-group-addon">Upload</span>
+
+        </div>
+
+        <input class="hidden" type="file" name="file">
+
+    </div>
+
+  </body>
+
+  <script>
+    $ = jQuery = require('jQuery')
+    require('bootstrap')
+  </script>
+
+  <script src="js\index.js" charset="utf-8"></script>
+
+</html>

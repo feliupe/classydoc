@@ -1,0 +1,21 @@
+.main-content {
+  margin-top: 4em;
+}
+
+.file-input {
+  width: 500px !important;
+  margin: 0 auto;
+}
+
+.file-input > input {
+  pointer-events: none;
+}
+
+.upload-button {
+  cursor: pointer;
+}
+
+.upload-button:hover {
+  background-color: #6f97bb;
+  color: white;
+}

@@ -1,0 +1,25 @@
+
+.main-logo-container {
+  text-align: center;
+  margin-top: 2em;
+}
+
+.main-logo {
+  font-size: 72px;
+  color: white;
+  font-style: italic;
+}
+
+body {
+  background-color: #0093ED !important;
+}
+
+.login-box {
+  width: 400px;
+  margin: 0 auto;
+  margin-top: 4em;
+}
+
+.login-box button{
+  width: 100%;
+}

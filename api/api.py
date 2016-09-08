@@ -6,6 +6,7 @@ from sqlalchemy import create_engine
 from functools import wraps
 from flask import request, Response, Flask, abort, jsonify
 from mymodel.user import User
+from mymodel.document import Document
 from sqlalchemy.orm import sessionmaker
 from datetime import datetime, timedelta
 
@@ -108,12 +109,9 @@ def get_document_list(id):
 @requires_token
 def send_documents(id):
 
-    import os
-    print(id)
-
     for f in request.files:
         file = request.files[f]
-        with open(os.path.join(app.config['APPLICATION_ROOT'], 'documents', file.filename), 'w', encoding="utf-8") as stream:
-            print(os.path.join(app.config['APPLICATION_ROOT'], 'documents', file.filename))
-            stream.write(file.read().decode('utf-8'))
-    return 'ok'
+        doc = Document(name=file.filename, user_id=id)
+        doc.save(file.read().decode('utf-8'))
+
+    return Response('Files stored', 200)

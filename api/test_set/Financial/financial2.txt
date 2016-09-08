@@ -1,0 +1,138 @@
+LOAN AGREEMENT SAMPLE
+
+
+THIS LOAN AGREEMENT is made [DATE] between
+
+(1) [BORROWER'S NAME] (herein called the "Borrower") : and
+
+(2) [LENDER'S NAME] (herein called the "Lender")
+
+IT IS HEREBY AGREED as follows:
+
+Article 1. Facility
+
+1.1 The Lender makes available to the Borrower upon the terms and subject to the conditions hereof a loan facility in the aggregate principal amount of Japanese Yen [LOAN AMOUNT] (the "Loan") to be drawn down In accordance with Article 2.
+
+Article 2. Drawing
+
+2.1 The Borrower shall give the Lender not later than 12:00 noon(Japan time) on the third Business Day, as defined in Article 3.2, prior to the date of the proposed drawing a notice of its intention to draw the Loan.
+
+Article 3. Repayment and Prepayment
+
+3.1 The Borrower agrees to repay to the Lender on [DATE] (the "Repayment Date" ) the principal amount of the Loan then outstanding.
+
+3.2 Upon giving not less than thirty(30) Business Day's prior notice to the Lender of its intention to do so, the Borrower shall be entitled to prepay on any Interest Payment Date, as defined in Article 4.2, all or any part of the Loan then outstanding together with (i) the accrued interest thereon and (ii) the amount of any extra costs payable by the Lender on account of such prepayment. "Business Day" means any day on which banks are open for normal banking business in Japan.
+
+Article 4. Interest
+
+4.1 Interest shall accrue of the principal amount of the Loan at the rate of OO percent per annum(the "Interest Rate") (i) from and including the date of the drawdown of the Loan to and including the initial Interest Payment Date and thereafter (ii) from but excluding the immediately preceding Interest Payment Date to and Including the next succeeding Interest Payment Date. The amount of interest shall be computed on the basis of a year of three hundred and sixty-five(365) days and the actual number of days elapsed.
+
+4.2 For purposes of this Agreement. "Interest Payment Date" means each semi-annual anniversary of the date of the drawdown of the Loan to and including the Repayment Date, which shall be the final Interest Payment Date. If an Interest Payment Date falls on a day which Is nota Business Day, the Interest Payment Date shall be the next succeeding Business Day unless such next succeeding Business Day (alls is another calendar month, in which case such Interest Payment Date shall be the next preceding Business Day. The Borrower shall pay accrued Interest on the principal amount of the Loan in arrears on each Interest Payment Date and on the Repayment Date.
+
+4.3 If the Borrower fails to pay when due any principal, interest or other sum due hereunder, the Borrower shall pay interest on the unpaid sum at the rate of 00 percent per annum above the Interest Rate, such interest to be payable on demand.
+
+Article 5. Costs and Expenses
+
+5.1 The Borrower shall reimburse the Lender for reasonable out-of-pocket expenses including legal fees for the negotiation, preparation and execution of this Agreement and the enforcement of any right of the Lender under this Agreement.
+
+5.2 The Borrower shall pay any stamp and other similar duties and taxes to which this Agreement is subject.
+
+Article 6. Taxes
+
+6.1 All payments (whether of principal, interest or otherwise) to be made by the Borrower to the Lender hereunder shall made without set-off or counterclaim and free and clear of and without deduction for any taxes or withholdings of any nature whatsoever imposed by any country or tax authority. It at any time any applicable law or regulation of such country or tax authority or international agreement imposes any such tax or requires the Borrower to make any such deduction or withholding from any such payment, the sum due from the Borrower in respect of such payment shall be increased to the extent necessary to ensure that, after the making of such deduction or withholding, the Lender receives a net sum equal to the sum which it would have received had no such deduction or withholding been required to be made. In the event that the Borrower is compelled to make any such deduction or withholding the Borrower shall forward, within ninety(90) days after such deduction of withholding is made, official receipts or other official documentation acceptable to the Lender evidencing payment of such deduction or withholding.
+
+Article 7. Payments
+
+7.1 All payments to be made hereunder by the Borrower shall be made by paying the same, in Japanese Yen, to the Lender at its Head Office, Tokyo, Japan, or such other address in Japan as may be notified by the Lender to the Borrower from time for this purpose.
+
+Article 8. Representations and Warranties
+
+8.1 The Borrower represents and warrants to the Lender that as at the date hereof :
+
+(a) The Borrower has power'to enter into and perform this Agreement and has taken all necessary action required to authorize the execution and delivery of this Agreement and its performance according to its terms ;
+
+(b) This Agreement constitutes a legal, valid and binding obligation of the Borrower enforceable in accordance with .its terms, and the obligations of the Borrower hereunder are direct and general obligations of the Borrower ;
+
+(c) All necessary consents, approvals and authorizations of any governmental authority required in connection with the execution, delivery,performance, validity or enforceability of this Agreement have been obtained and made and are in full force and effect ;
+
+(d) All payments of principal, premium (if any), interest and other moneys due or to become due from the Borrower are free of any present taxes imposed by or any taxing authority thereof :
+
+(e) The obligations of the Borrower hereunder rank pari passu with any other unsecured obligations ( including guarantee obligations)of the Borrower for money borrowed.
+
+Article 9. Covenants
+
+9.1 The Borrower will furnish to the Lender as soon available and In any event within one hundred fifty(150) days after the end of each of its fiscal years, a copy of the audited annual financial statements of the Borrower and its consolidated subsidiaries, including for both a balance sheet as at the end of such fiscal year and the related statements of profit and loss and retained earnings for such fiscal year, prepared in accordance with accounting principles and practices generally accepted in and certified by independent public accountants of recognized standing selected by the Borrower.
+
+Article 10. Events of Default
+
+10.1 If:
+
+(a) The Borrower fails to pay any principal amount of or interest on the Loan for more than three(3) days after the due date thereof or fails to pay any other sum payable hereunder for more than five(5) days after the due date thereof ;
+
+(b) The Borrower shall default in the·due performance or observance of any other term or condition of this Agreement for more than thirty(30) days after receipt of notice thereof from the Lender :
+
+(c) Any representation or warranty made by the Borrower in this Agreement or any certificate or statement delivered to the Lender pursuant hereto proves to have been materially incorrect or inaccurate when made :
+
+(d) Any governmental authorization approval or consent necessary for the raising or repayment by the Borrower of the amount to be lent hereunder on the terms and conditions described in this Agreement or for the payment of interest or fees as stipulated herein or for any other matters or thing contemplated by this Agreement is withdrawn or modified in a manner unacceptable to the Lender or is revoked or terminated or expires ; or
+
+(e) The Borrower institutes proceedings to be adjudicated bankrupt or insolvent, or consents to the institution of bankruptcy or insolvency proceedings against it or files a petition or answer or consent seeking reorganization or relief or consents to the filing of any such petition or to the appointment of a receiver of or over any substantial part of the property of the Borrower, or makes a general assignment for the benefit of creditors or admits in writing its inability to pay its debts generally as they become due ;Then the Lender may by written notice to the Borrower declare all the outstanding amount of the Loan together with accrued interest thereon and any other sums whatsoever outstanding and payable under this Agreement to be due and payable whereupon the Loan shall become due nd payable without demand or other notice of any kind, all or which are hereby waived by the Borrower.
+
+Article 11. Assignment
+
+11.1 This Agreement shall bind and inure to the benefit of the Borrower and the Lender and their respective successors and assigns provided that :
+
+(a) The Borrower may not assign its rights or obligations hereunder without prior written consent of the Lender, such consent nto to be unreasonably withheld ; and
+
+(b) The Lender may, upon notifying the Borrower, assign all or any of its rights under this Agreement provided that as a result of such assignment,the Borrower shall not be liable to pay any such assignee any greater amount than it would have been liable to pay had the Lender which is a party to this Agreement remained entitled to the Loan hereunder.
+
+Article 12. Notices
+
+12.1 All notices, requests, demands or other communications to or upon the respective parties hereto shall be given or made by telex, telegram,cable or telephone(later to be confirmed in writing by mail) or by mail to the party to which such notice, request, demand or other communication is required or permitted to be given or made under this Agreement addressed as follows :
+
+(i) if to the Borrower,
+
+Attention:
+
+Telex number:
+
+Answerback :
+
+;Cable address :
+
+Telephone number :
+
+(ii) if to the Lender,
+
+Attention:
+
+Telex number :
+
+Answerback :
+
+Cable address:
+
+Telephone number :
+
+Facsimile number :
+
+or at such other address as either party hereto may hereafter specify to the other in writing form time to time.
+
+Article 13. Governing Law and Jurisdiction
+
+13.1 This Agreement shall be governed by and construed in accordance with the laws of Japan.
+
+13.2 Both parties hereto hereby irrevocably submit to the nonexclusive jurisdiction of the Tokyo District Court.
+
+IN WITNESS WHEREOF the duly authorized representatives of the parties hereto have executed this Agreement the day and year first above written.
+
+BORROWER :
+
+by
+
+NAME :
+TITLE  :
+
+LENDER :
+
+by NAME :
+TITLE

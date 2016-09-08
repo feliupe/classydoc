@@ -1,0 +1,700 @@
+Commercial-in-Confidence Page 1 of 18
+AGREEMENT FOR
+SUPPLY OF GOODS
+BETWEEN [ Insert Supplier Name]
+AND BAXTER HEALTHCARE PTY LIMITED
+Commercial-in-Confidence Page 2 of 18
+AGREEMENT FOR SUPPLY OF PRODUCTS
+BETWEEN [ Insert Supplier Name ] [ABN ] of [ Insert Supplier
+Address NSW ] (“Supplier”).
+AND BAXTER HEALTHCARE PTY LIMITED ABN 43 000 392 781 of 1
+Baxter Drive, Old Toongabbie, NSW 3246 (“Baxter”)
+WHEREAS
+A. The Supplier is a supplier of [Insert supplier product details].
+B. Baxter wishes to purchase products from the Supplier on the terms and
+conditions contained in this Agreement.
+AS AGREED
+1.1 Interpretation
+1.2 In this Agreement the following words will have the meanings assigned to
+them in this clause, except where inconsistent with the context.
+“Agreement” means this agreement including any schedules or annexures
+and as varied from time to time;
+“Baxter’s Ethics and Compliance Standards for Suppliers” set out in
+Schedule 3;
+“Business Day” means a standard business day in New South Wales,
+Australia;
+“Commencement Date” means [Insert Date];
+“KPIs” means the key performance indicators set out in Schedule 2;
+“Order” means an order placed by Baxter with the Supplier for the Products;
+“Parties” means the parties to this Agreement and their respective successors
+and permitted assigns, and Party means any one of them;
+“Price” means the means the price list for the Products set out in Schedule 1;
+“Products” means the products described in Schedule 1;
+Commercial-in-Confidence Page 3 of 18
+“Review Period” means three consecutive months; and
+“Sustainability Activities” means the use or identification of products and/or
+services which have a lower impact on the environment or support corporate
+social responsibility while maintaining quality, functionality and cost
+competitiveness;
+“Sustainability Report” means a report which sets out goals, targets and
+actions in relation to Sustainability Activities which may include:
+(a) reducing hazardous materials in products and services;
+(b) providing a safe workplace for employees;
+(c) reducing waste; and
+(d) promoting a diverse and inclusive workplace.
+1.3 In this Agreement, unless the context otherwise requires:
+(a) a reference to any document (including this Agreement) is to that
+document as varied, novated, ratified or replaced from time to time;
+(b) words in the singular include the plural and vice versa and words in one
+gender include any other gender;
+(c) a reference to a statute or to any statutory provision includes any
+statutory modification or re-enactment of it or any statutory provision
+substituted for it, and all ordinances, by-laws, regulations, rules and
+statutory (however described) issued under it;
+(d) a reference to any party includes its successors in title and permitted
+assigns, a reference to a “person” includes any individual firm, body
+corporate, association or partnership, government or state (whether or
+not having a separate legal personality), and a reference to a clause is to
+a clause of this Agreement;
+(e) the heading of clauses are for convenience only and will not affect the
+interpretation of this Agreement;
+(f) any undertaking under this Agreement not to do any act or thing will be
+deemed to include an undertaking not to permit or suffer the doing of that
+act or things;
+(g) a reference to “$” or “dollar” is to the lawful currency of Australia; and
+(h) the word “includes” in any form is not a word of limitation.
+Commercial-in-Confidence Page 4 of 18
+2. Term of Agreement
+2.1 The Agreement commences on the Commencement Date and, unless
+extended or terminated earlier in the manner set out in this Agreement will
+continue for a period of twelve (12) months (Initial Term).
+2.2 Baxter may at its sole discretion renew this Agreement for a further twelve (12)
+month term by providing the Supplier with notification in writing no later than
+thirty (30) days prior to the expiry of the Initial Term.
+2.3 If the Agreement is renewed for an extended term, with the exception of the
+Price which may be the subject of further negotiation between the parties, the
+terms and conditions of this Agreement apply to any extended term.
+3. Placement of Orders and Supply of Products
+3.1 Baxter may from time to time place Orders with the Supplier setting out the
+requirements for the Order, including the date for delivery and the delivery
+address.
+3.2 Following receipt of each Order, the Supplier will:
+(a) supply the Orders;
+(b) meet the KPIs;
+(c) abide by all laws, rules and regulations that apply to the performance of its
+obligations under this Agreement;
+(d) use all reasonable skill and diligence in accordance with best industry
+practices; and
+(e) comply with all of Baxter’s relevant policies in performing its obligations
+under this Agreement, including but not limited to, Baxter’s Ethics and
+Compliance Standards for Suppliers, a copy of which is attached as
+Schedule 3 to this Agreement.
+3.3 Baxter is under no obligation or requirement to place Orders for any minimum
+quantity of Product during the term of the Agreement.
+4. Risk and delivery
+4.1 Title to and risk in the Products will pass to Baxter only after Baxter has
+accepted the Products.
+4.2 Products purchased are subject to Baxter’s reasonable inspection, testing, and
+approval at the delivery point nominated in an Order. 
+Commercial-in-Confidence Page 5 of 18
+4.3 Baxter may reject the Products, even after they have been accepted, if they
+are defective or are not in accordance with Baxter’s specifications or do not
+meet the requirements under the Order (“Rejected Products”).
+4.4 Rejected Products will be held entirely at the risk of the Supplier:
+(a) Rejected Products must be removed by and at the expense of the
+Supplier within five (5) Business Days of the Supplier being notified of
+the rejection; and
+(b) If the Supplier fails to remove the Products in the relevant time frame,
+then Baxter may do so at the Supplier’s cost.
+4.5 As soon as the Supplier is aware that it will be unable to fulfil an Order or meet
+the delivery date set out in an Order, the Supplier must notify Baxter in writing
+of the date that it will be able to fulfil the Order or deliver the Order for the
+Product. Except where the delay in delivery is caused or contributed to by
+Baxter, if the new date for delivery is unacceptable to Baxter, Baxter may in its
+sole discretion:
+(a) terminate the Order; or
+(b) purchase the Product in substitution for the Order from an alternate
+supplier and any reasonable expense incurred by Baxter in the
+acquisition of such alternative Product which is in excess of the Price
+payable under this Agreement for such Product will be payable by the
+Supplier.
+4.6 Baxter will not be liable to the Supplier for any cost, loss or expense incurred
+by the Supplier due to Baxter exercising its rights under clause 4.5.
+5. Price and Payment
+5.1 The Supplier must provide Baxter with a valid tax invoice for each Order
+detailing the Products supplied, the Price and the GST component in
+accordance with clause 6.
+5.2 Following acceptance of the Order, Baxter will pay the Supplier within thirty
+(30) days from the date it receives a valid tax invoice.
+5.3 Baxter will notify the Supplier if there is an error in the tax invoice, or if it disputes
+some of the charges. Notwithstanding this, Baxter may withhold payment of any
+disputed portion of the invoice pending resolution of the dispute, but remains
+obligated to pay the remaining balance of the tax invoice on time in accordance
+with clause 5.2.
+5.4 Baxter is entitled to set off any amount the Supplier owes Baxter under this
+Agreement against any amount that Baxter owes the Supplier under it. 
+Commercial-in-Confidence Page 6 of 18
+5.5 The Price must remain fixed and firm and no variation increasing the Prices
+will be accepted during the Initial Term of this Agreement or any extended
+term without the prior written approval of Baxter.
+5.6 Notwithstanding clause 5.5, Baxter may, at its discretion, at any time during
+this Agreement, conduct benchmarking exercises to compare the Prices the
+Supplier has been charging, with other suppliers who supply similar Products
+during a similar period. The Supplier must provide Baxter with all reasonable
+assistance with regard to the benchmarking exercise. Where the
+benchmarking exercise demonstrates that the Supplier’s Prices under this
+Agreement is not competitive, The Supplier and Baxter will agree to vary the
+prices to reflect a competitive position.
+5.7 All other costs, charges, fees and expenses for or arising out of or in
+connection with the supply of Products under this Agreement must be paid by
+the Supplier, including all costs involved in the packaging, handling, storage
+insurances and any other expenses unless otherwise stated and mutually
+agreed. The cost of freight and delivery is included in the Price.
+6. GST
+6.1 Terms used in this clause 6 have the same meaning as those terms in A New
+Tax System (Goods and Services Tax) Act 1999 (Cth).
+6.2 If the supply of Products under this Agreement is subject to GST, Baxter must
+pay the Supplier the price plus an amount equal to the GST payable on the
+supply (unless the price is expressly stated as being inclusive of GST).
+6.3 Baxter must pay the additional amount payable under clause 6.2 on the same
+date as the price is payable provided that no payment is required under this
+clause or clause 6.2 until the Supplier has issued Baxter with a tax invoice in
+respect of the relevant supply.
+6.4 The Supplier must issue a tax invoice in the format required by Baxter and the
+law to Baxter for the supply. The tax invoice must set out the amount of the
+GST payable by Baxter.
+6.5 The Supplier warrants that it is registered with an Australian Business Number
+and for GST purposes at each time a taxable supply is made.
+6.6 The Supplier indemnifies Baxter for any loss it suffers as a result of the
+Supplier not being registered for GST and/or Australian Business Number
+purposes. On request by Baxter the Supplier must produce evidence that it is
+so registered.
+7. Warranty
+7.1 The Supplier warrants that all Products supplied to Baxter:
+Commercial-in-Confidence Page 7 of 18
+(a) are new;
+(b) are of merchantable quality;
+(c) are free from defects;
+(d) are fit for their intended purpose;
+(e) are of good material and workmanship;
+(f) in quality and in manufacturing process, comply with all relevant
+standards adopted by such bodies as the Australian Standards
+Association and with any requirements of the Commonwealth, State or
+Territory and local government authorities[./;
+(g) have been manufactured in accordance with cGMP;
+(h) meet the needs of Baxter as set out in Baxter’s tender for the provision of
+[insert name of tender].]
+7.2 The Supplier warrants that it has clear title to the Products and that the Products
+are delivered free of liens or encumbrances.
+7.3 The Supplier warrants that it and its employees will comply with Baxter’s Ethics
+and Compliance Standards for Suppliers, site safety and security rules, and any
+other rules that may be provided by Baxter from time to time, as appropriate.
+7.4 The warranties in this Agreement and other warranties as may be prescribed by
+law will extend to Baxter, its successors and assigns and will run through to any
+expiration date on the Products, or if no expiration date is stated, then for a
+period of twelve (12) months after delivery of the Products to Baxter.
+8. Insurance policies
+8.1 The Supplier must effect and maintain appropriate and adequate insurance for:
+(a) public and product liability which must be drawn in terms acceptable to
+Baxter, covering a sum of not less than $10 million for each insured
+event;
+(b) loss or destruction (at full replacement cost) of the Product relating to
+this Agreement and retained in the Supplier's possession, or whilst in
+transit;
+(c) workers compensation in respect of its employees engaged in
+performing its obligations under this Agreement to cover its potential
+liability at common law and pursuant to all applicable workers
+compensation legislation or regulations in each State/Territory; and
+Commercial-in-Confidence Page 8 of 18
+(d) any other insurance required by law or reasonably required by Baxter.
+8.2 The Supplier must provide to Baxter a copy of a certificate of currency in respect
+of any of the above insurances within 7 days of a request by Baxter.
+9. Indemnity
+9.1 The Supplier indemnifies and releases Baxter against any claims, loss, damage,
+cost (including legal costs), expense or liability arising out of:
+(a) any breach of any warranty or obligation under this Agreement;
+(b) any wilful or negligent act or omission of the Supplier or any of its officers,
+employees or, agents in relation to the performance of its obligations
+under this Agreement; and
+(c) any breach of any third party's rights, including in respect of any claim that
+the Product infringe, or their importation infringes the patent, copyright,
+design right, trade mark or other intellectual property rights of any other
+person anywhere in the world,
+except, to the extent caused or contributed to by any negligent act or omission of
+Baxter, its officers, employees and agents.
+10. Confidential Information
+10.1 Neither Party will use information contained in this Agreement, exchanged in
+prior negotiations or any tender process for any purpose not contemplated by
+this Agreement. Each Party must, and must ensure that its employees, agents
+and subcontractors who need such access in order to perform their duties,
+receive this information under obligations of confidentiality.
+10.2 Clause 10.1 does not apply to the extent that:
+(a) either Party is required by law to disclose the information;
+(b) the information is public knowledge (and has not become public
+knowledge as a result of either party’s breach of confidentiality); or
+(c) the information was independently created by a Party (and that Party has
+evidence in writing that the information falls within this exception).
+11 KPIs and reporting
+11.1 Each party will appoint a representative to liaise with the other for the term of
+this Agreement. Each party may at any time appoint a new representative and
+will notify the other party in writing within seven (7) days of the appointment.
+Commercial-in-Confidence Page 9 of 18
+11.2 The Parties will agree on KPIs and their method of calculation to be applied in
+the supply of the Products. Baxter will measure the Supplier’s achievement of
+the KPIs at the conclusion of every Review Period, or such other period of
+time as Baxter may reasonably determine. Following Baxter’s measurement
+of KPIs, acting reasonably, it will communicate to the Supplier details of how
+Baxter has assessed the Supplier’s achievement of KPIs and whether Baxter
+has identified opportunities for improved performance of KPIs.
+11.3 The Supplier must meet or exceed the KPIs and the Supplier acknowledges
+and agrees that the Supplier’s achievement of the KPIs is an essential term of
+this Agreement and the Supplier’s failure to achieve the KPIs in any Review
+Period will constitute a breach of this Agreement.
+11.4 If Baxter is not reasonably satisfied with the results of any review of KPIs, it
+may at its discretion issue a notice in writing to the Supplier detailing failures to
+achieve KPIs (“KPI Notice”). As soon as practicable following issue of the KPI
+Notice, the Parties’ representatives will meet to discuss the issues raised in
+the KPI Notice and to agree on steps to be taken by the Supplier and a
+timeframe to remedy the issues. The Supplier’s failure to adequately remedy
+the issues raised within a KPI Notice within the timeframes agreed will
+constitute a fundamental breach of this Agreement and will entitle Baxter to
+terminate this Agreement in accordance with clause 16.
+11.5 The representatives will meet at any time reasonably requested by the
+Supplier or by Baxter, but at least once every Review Period, to discuss
+matters pertaining to this Agreement and the supply of the Products by the
+Supplier.
+11.6 The Supplier must provide Baxter with a written report for each Review Period
+identifying:
+(a) the performance of the Supplier against the KPIs;
+(b) any suggested savings;
+(c) a written Sustainability Report identifying all Sustainability Activities in
+which the Supplier participates during the relevant Review Period; and
+(d) any other matters which Baxter may require.
+12 Relationship
+The Parties are independent contracting parties, and nothing in this Agreement
+will make any Party the employee, partner, agent, legal representative, trust or
+joint venturer of the other for any purpose whatsoever, nor does it grant either
+Party any authority to assume or to create any obligation on behalf of or in the
+name of the other. 
+Commercial-in-Confidence Page 10 of 18
+13 Assignment
+Baxter may assign this Agreement or any of its rights or obligations under this
+Agreement without the prior written consent of the other party. For the
+purpose of this clause, assignment will include any assignment by operation of
+law and change in control of a party.
+14 Dispute resolution
+14.1 If any dispute or difference arises between the Parties as to:
+(a) either Party being unable to pay its debts as they fall due, become
+insolvent, a receiver is appointed or enters a formal arrangement with
+creditors; or
+(b) either Party committing any fundamental breach of the terms of this
+Agreement or any other breach where the breach is not capable of
+being remedied;
+and the dispute or difference (“Issue”) is unable to be resolved by the Parties
+by negotiation within ten (10) Business Days from the date one Party receives
+notice in writing from the other Party giving details of the Issue then either
+Party may require that the Issue is referred to mediation.
+14.2 The costs incidental to mediation, including but not limited to mediation fees
+and venue fees will be divided equally between the Parties. Notwithstanding
+this, each Party will bear its own legal costs incidental to the mediation,
+including costs between solicitor and client and costs of any experts a Party
+may elect to engage.
+14.3 Nothing in this clause 14 will prevent a Party from seeking interlocutory relief
+from a court of appropriate jurisdiction.
+15 Costs
+Each party will bear their own respective legal costs (as between solicitor and
+client) of and incidental to the negotiation, any variation and execution of this
+Agreement, and the enforcement or attempted enforcement of respective rights,
+remedies and powers under this Agreement, including referral of any Issue
+under this Agreement to mediation.
+16 Termination
+16.1 Baxter may terminate this Agreement without cause with 90 days’ written
+notice.
+16.2 Baxter may terminate this Agreement immediately with written notice to the
+Supplier if:
+Commercial-in-Confidence Page 11 of 18
+(a) the Supplier commits a fundamental breach of any of its obligations
+under this Agreement, and such breach is not remedied (if capable of
+remedy) within seven (7) days of notice in writing from Baxter requiring
+that such breach be remedied;
+(b) the Supplier is in breach of any of its obligations under this Agreement,
+which breach is not a fundamental breach and such breach is capable
+of being remedied and has not been remedied within thirty (30) days of
+notice in writing from Baxter requiring that such breach be remedied;
+(c) for any reason the Supplier is no longer able to perform its obligations
+under this Agreement;
+(d) the Supplier becomes insolvent or goes into administration,
+receivership or liquidation or enters into any arrangement or
+composition with its creditors or any action is taken for the appointment
+of an administrator or official manager or receiver of the assets of the
+Supplier; or
+(e) the Supplier ceases or threatens to cease carrying on business.
+16.3 The Supplier may terminate this Agreement on immediately on written notice
+to Baxter if:
+(a) Baxter fails to pay or dispute any tax invoice in accordance with clause
+5 and fails to remedy such breach within sixty (60) days of a notice from
+the Supplier requiring Baxter to remedy the same and stipulating that
+Baxter is in breach of this Agreement; or
+(b) Baxter becomes insolvent or goes into administration, receivership or
+liquidation or enters into any arrangement or composition with its
+creditors or any action is taken for the appointment of an administrator
+or official manager or receiver of the assets of Baxter.
+16.4 Termination of this Agreement is without prejudice to any accrued rights of
+either party as at the date of termination.
+16.5 Upon termination of this Agreement for any reason whatsoever, the Supplier
+must immediately return all of Baxter’s property.
+17 Entire Agreement
+This Agreement constitutes the entire agreement between the Parties
+concerning the subject matter of this Agreement and supersedes all prior
+negotiations, arrangements, agreements and understandings, either oral or
+written, between the Parties.
+Commercial-in-Confidence Page 12 of 18
+18 Variation
+This Agreement may be modified only in writing, signed by the authorised
+signatories of each Party.
+19 Governing Law and Jurisdiction
+This Agreement is governed by the laws of the State of New South Wales and
+the Commonwealth of Australia. Each Party submits to the exclusive jurisdiction
+of the courts of New South Wales and of the Commonwealth of Australia.
+20 Partial Invalidity
+In the event of the invalidity of any part or provision of this Agreement such
+invalidity must not affect the enforceability of any other part or provision of this
+Agreement.
+21 Survival
+Clauses 7 (Warranty), 8 (Insurance policies), 9 (Indemnity), 10 (Confidential
+Information), 14 Dispute Resolution, 24 (Notices) and clause 21 (Survival)
+survive the expiration and termination of this Agreement.
+22 Waiver
+A Party’s failure to exercise or delay in exercising a right or power does not
+operate as a waiver of that right or power and does not preclude the future
+exercise of that right or power.
+23 Counterparts
+This Agreement may be executed in counterparts.
+24 Notices
+24.1 Notices must be in writing. A notice may be delivered to a party by hand, by
+pre-paid ordinary post, or by facsimile to that party’s address shown in this
+Agreement or to the alternate address notified to the party giving the notice.
+24.2 A notice will be taken to be duly given and received:
+(a) if delivered by hand, when delivered;
+(b) if delivered by pre-paid ordinary post, on the second business day after
+posting; and
+(c) if delivered by facsimile, upon completion of transmission and receipt by
+the sender of the appropriate transmission report.
+Commercial-in-Confidence Page 13 of 18
+EXECUTED as an Agreement
+SIGNED BY BAXTER HEALTHCARE
+PTY LIMITED by its Authorised
+Signatory who signs in the presence
+of::
+.......................................................
+Witness
+.......................................................
+Name (please print)
+……………………………………………
+Date
+)
+)
+)
+)
+)
+.......................................................
+Authorised Signatory
+.......................................................
+Name (please print)
+……………………………………………
+Date
+SIGNED BY [Insert Supplier Name]
+by its Authorised Signatory who signs
+in the presence of::
+.......................................................
+Witness
+.......................................................
+Name (please print)
+……………………………………………
+Date
+)
+)
+)
+.......................................................
+Authorised Signatory
+.......................................................
+Name (please print)
+……………………………………………
+Date
+Commercial-in-Confidence Page 14 of 18
+Schedule 1
+Statement of Work
+Services: [Specify:]
+Products [Specify:]
+If applicable, identify by
+name specific employees
+of the Supplier to provide
+the Services.
+[Specify:]
+Deliverables, if any
+(including a process for
+measuring , accepting and
+time periods for
+achievement) :
+[Specify:]
+Specific Tasks/Milestones
+with scheduled
+[Specify:]
+Commercial-in-Confidence Page 15 of 18
+completion dates:
+Hours of work: [Specify:]
+Fees: [Specify:
+Hourly rate (if applicable):
+Fixed fee (if applicable):
+Payment Schedule:]
+Expenses: [Specify agreed out-of pocket expenses which
+will be paid at cost, without mark-up:]
+Commercial-in-Confidence Page 16 of 18
+Schedule 2
+Key Performance Indicators
+Supplier Name:
+Review Period:
+Procurement Coordinator
+Stakeholder involvement
+Total Score:
+KPIs (Description) Target Measurement
+Responsibility
+Method of Measurement Performance ratings &
+Actions/ Comments
+0= Minimum requirements
+1= Meets Minimum requirements
+2= Exceeds minimum requirements
+3= Meets stretch requirements
+4 = Exceeds stretch requirements
+Weighting Score
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+Commercial-in-Confidence Page 17 of 18
+SCHEDULE 3
+ETHICS & COMPLIANCE STANDARDS FOR
+BAXTER SUPPLIERS
+These standards apply to individuals/organizations that
+provide services, raw material, active ingredients,
+components, finished goods, or other products
+(“Suppliers”). Where they exist, the Supplier’s own
+written ethics and compliance standards may replace
+these Standards if they are consistent with these
+standards and are incorporated into a written
+agreement between Baxter and Supplier.
+ADHERANCE TO APPLICABLE LAWS &
+REGULATIONS
+• Suppliers must comply with the applicable laws,
+rules, regulations, and ethical standards of the country
+in which they operate, applicable U.S. laws, as well as
+these Standards.
+PROHIBITION OF BRIBES, KICKBACKS,
+UNLAWFUL PAYMENTS, AND OTHER CORRUPT
+PRACTICES
+• Suppliers are prohibited from directly or indirectly
+paying anything of value to a government official in
+order to:
+− Win or retain business or to improperly influence the
+act or decision of any government official, political
+party, candidate for political office, or official of a public
+international organization;
+− Gain an improper advantage; or
+− Illegally influence the action of any individual,
+customer, company, or company representative.
+• Suppliers are required to keep accurate and
+transparent records that reflect actual transactions and
+payments.
+• While Baxter observes local business customs and
+market practices, neither Baxter nor any Supplier shall
+participate in any corrupt , unethical or illegal practices.
+ACCURACY OF BUSINESS RECORDS
+• All financial books and records must conform to
+generally accepted accounting principles.
+• Supplier records must be accurate in all material
+respects.
+− Records must be legible, transparent, and reflect
+actual transactions and payments.
+− Do not hide, fail to record, or make false entries.
+INTERACTIONS WITH HEALTHCARE
+PROFESSIONALS
+• When engaged with healthcare professionals or
+patients on behalf of Baxter, all suppliers, dealers,
+distributors, agents and other third parties are must
+adhere to any industry standard of conduct that apply
+to them (such as AdvaMed and EFPIA Code of
+Practice.)
+• Any payment or benefit provided to a healthcare
+professional on behalf of Baxter must comply with the
+policy for the country or region in which the healthcare
+professional resides and/or practices medicine.
+FAIR COMPETITION AND ANTITRUST
+• Suppliers must comply with all applicable laws and
+regulations regarding fair competition and antitrust.
+INTELLECTUAL PROPERTY AND CONFIDENTIAL
+INFORMATION
+• All Suppliers requiring the exchange of confidential
+information with Baxter are required to execute a
+confidentiality agreement with Baxter in advance.
+• Exchange of confidential information is limited to that
+required to fulfill contracted performance requirements.
+• Suppliers shall not share Baxter’s intellectual
+property or confidential information or any other
+information that they acquire with respect to Baxter’s
+business (including information developed by Suppliers
+and information relating to products, customers,
+suppliers, pricing, costs, know-how, strategies,
+programs, processes, and practices).
+• Suppliers must immediately report unauthorized
+disclosure of Baxter’s confidential information, whether
+inadvertent or not, through the Ethics & Compliance
+Helpline at www.baxter.com/compliance.
+DATA PRIVACY
+• Supplier must abide by applicable data privacy laws
+and regulations when handling personal information.
+• Suppliers must immediately report unauthorized use,
+disclosure, or loss of Baxter related personal
+information through the Ethics & Compliance Helpline
+at www.baxter.com/compliance.
+EMPLOYMENT PRACTICES GUIDELINES
+• Suppliers must treat Baxter employees with dignity
+and respect.
+• Suppliers must comply with all applicable
+Employment laws and regulation including statutes
+prohibiting discrimination in the workplace.
+• Suppliers shall not possess, use or sell illegal drugs
+on Baxter property or perform their work under the
+influence of alcohol or illegal drugs.
+• Suppliers will not produce or manufacture goods or
+services using forced or indentured child labor.
+Regular full-time employees are to be at least 18 years
+of age. Suppliers
+must disclose the existence of part-time work, summer
+jobs, or apprenticeship programs for individuals under
+the age of 18 to Baxter's management.
+• Baxter does not permit intimidation or hostility and
+will not tolerate any behavior from a supplier that might
+harass, disrupt or interfere with another person’s ability
+to work.
+CONFLICTS OF INTEREST
+• A conflict of interest arises when personal interests or
+activities influence, or appear to influence, the ability to
+act in the best interests of Baxter. Some situations that
+could cause a conflict of interest include:
+− Having a significant financial investment in any
+company that competes, does business, or seeks to do 
+Commercial-in-Confidence Page 18 of 18
+business with Baxter. A significant financial interest
+includes voting control, or an ownership of more than
+1% of the outstanding capital of a business, or an
+investment that represents more than 5% of the
+investor’s total assets.
+− Providing similar services for direct competitors of
+Baxter, with access to confidential or competitive
+information.
+− When family members (or domestic partners, or
+those personally close to you) work for Baxter, another
+Baxter supplier, Baxter customer or Baxter competitor.
+• Suppliers must disclose any apparent or actual
+conflicts of interest to Baxter's management. If Baxter
+management approves an apparent or actual conflict,
+the approval decision must be documented.
+MOBILE DEVICES, ELECTRONIC MEDIA,
+INTERNET AND E-MAIL USE
+In those circumstances where Suppliers have access
+to Baxter’s electronic environment (Intranet, e-mail,
+voicemail or other), Suppliers shall:
+• Protect Baxter’s confidential information and
+electronic media;
+• Encrypt or password protect data;
+• Keep mobile devices with you or locked while
+traveling;
+• Comply with local data protection laws;
+• Use these tools for Baxter business purposes only;
+and
+• Use these tools consistent with Baxter’s Global
+Acceptable Use of Information and Technology Policy
+including:
+− Do not knowingly download, view or forward
+materials of a discriminatory, harassing, threatening,
+sexual, pornographic, racist, sexist, defamatory or
+otherwise offensive nature. Electronic media must be
+primarily used for business purposes.
+− Do communicate protected information (personal or
+trade secret) in a way that recognizes the sensitivity of
+the information, possibility of unauthorized access, and
+compliance to local data protection laws. Suppliers will
+be responsible for keeping Baxter-given password(s)
+secret.
+− Realize that documents, software, e-mails and other
+web pages could bring damaging computer viruses
+into
+Baxter’s network. Do not knowingly detach,
+decompress, run/launch or install any files or programs
+on Baxter’s systems or open attachments that have
+damaging computer viruses. Do not download or
+disseminate any material from the Internet unless the
+copyright owner has provided consent.
+− Adhere to the timing and methods for retention and
+elimination of Baxter company data stored on
+electronic media.
+TRADE COMPLIANCE
+• Suppliers must comply with the letter and spirit of all
+applicable import and export controls, sanctions, and
+other trade compliance laws of the United States and
+the laws of the applicable country(ies) where the
+transaction(s) occur(s).
+ENVIRONMENT, HEALTH & SAFETY
+• Suppliers are expected to comply with all applicable
+laws and regulations regarding environment, health
+and safety.
+• Suppliers working with Baxter or onsite at a Baxter
+location must work in a way that assures their own
+safety and the safety of others and in compliance with
+applicable Baxter and governmental environmental,
+health and safety requirements. Any emergencies that
+may impact Baxter must be reported promptly.
+GIFTS & ENTERTAINMENT
+Gifts and entertainment are not needed in order to
+conduct business with Baxter and are highly
+discouraged.
+• The following situations are always inappropriate and
+are expressly prohibited:
+− Giving a gift, entertainment, or preferred treatment
+with the intention of trying to influence the decisionmaking
+objectivity of a Baxter employee.
+− Offering any gift, entertainment, or preferred
+treatment while involved in a current purchasing or
+contracting decision process. (RFI, RFQ, RFP).
+− Any gift of currency including “gift cards”.
+− Offering entertainment where the Supplier will not be
+present/represented (e.g., sports/event tickets).
+− Offering extravagant recreational outings, travel, or
+lodgings at supplier sponsored events.
+• On a rare and infrequent basis Baxter employees
+may accept very modest gifts, entertainment, or other
+business courtesies if it helps improve the business
+relationship and they would be able to reciprocate in
+equal value.
+• Baxter employees are not permitted to solicit
+suppliers for gifts including gifts to support charitable
+causes.
+• Suppliers shall not offer an opportunity to purchase
+products, services, or a financial interest to any Baxter
+employees under terms not available to all Baxter
+employees.
+RESOURCES
+• If you need additional information or guidance on
+these standards, or wish to report a potential violation,
+contact Baxter's Ethics & Compliance Helpline
+www.baxter.com/compliance.
+• Additional supplier information can be found at
+Baxter.com
+© July 2009 Baxter Healthcare Corporation

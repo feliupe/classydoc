@@ -13,17 +13,18 @@ import mymodel.config as dbconfig
 
 class ApiTestCase(unittest.TestCase):
 
-
     def create_test_dir_tree(self):
-        os.makedirs(os.path.join(api.app.config["APPLICATION_ROOT"],'documents'), exist_ok=True)
+        os.makedirs(os.path.join(self.test_root,'documents'), exist_ok=True)
 
     def remove_test_dir_tree(self):
-        os.rmdir(os.path.join(api.app.config["APPLICATION_ROOT"]
+        import shutil
+        shutil.rmtree(self.test_root)
 
     def setUp(self):
         api.create_app('config.Test')
         dbconfig.create_tables(api.engine)
         self.app = api.app.test_client()
+        self.test_root = api.app.config["APPLICATION_ROOT"]
 
         self.create_test_dir_tree()
 
@@ -35,7 +36,11 @@ class ApiTestCase(unittest.TestCase):
         self.token = res.headers['token']
 
     def tearDown(self):
-        pass
+        #TODO: make it more secure
+        if self.test_root.endswith('/api') or not self.test_root.endswith('/test'):
+            raise Exception("Fail to clear /test directory. APPLICATION_ROOT ends with '/api' or not ends with '/test'")
+        else:
+            self.remove_test_dir_tree()
 
     def authorization_header(self,user,password):
         return {'Authorization': 'Basic ' + base64.b64encode(bytes(user + \
@@ -80,22 +85,8 @@ class ApiTestCase(unittest.TestCase):
             headers=self.authorization_header(self.token,'unused')
         )
 
-        print(resp.status,resp.headers,resp.data)
-
-        # Reponse
-        #self.assertEqual('ok', resp.data)
-        # Test file register and content
-        # try:
-        #     with open(filename, 'r') as f:
-        #         self.assertEqual(content, f.read())
-        # except:
-        #     print('Fail: file doesn\'t exist')
-        #
-        # try:
-        #     os.remove(os.path.join(hello.app.root_path, filename))
-        # except:
-        #     pass
-
+        #TODO: check files and content
+        self.assertEqual(resp.status_code, 200)
 
 if __name__ == '__main__':
     unittest.main()

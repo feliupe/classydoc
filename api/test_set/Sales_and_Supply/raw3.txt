@@ -1,0 +1,551 @@
+1-13
+GENERAL PURCHASE CONDITIONS
+Raw Materials, Semi-finished Products, and Auxiliary Materials
+CONTENTS
+GENERAL
+Definitions
+Field of Application
+Assignment of Contract and Credits
+Applicable Law and Jurisdiction
+Confidentiality
+Information Security
+Force Majeure
+Personal Data Notice
+Ethical Code
+Policy: health, safety, environment and social responsability
+INDUSTRIAL PROPERTY RIGHTS
+Technical information
+Supplier’s Industrial Property Rights
+No License
+Duration of confidential obligations and limitations of use
+APPROVAL
+Materials Approval
+Changes
+Validity of Approval
+Suspension and Cancellation of Approval
+QUALITY AND SAFETY
+Compliance with regulations in force in individual countries – Safety cards
+Material Characteristics
+Checks
+Analysis Certificate
+Quality Level Reporting
+Tracking and re-sampling
+DELIVERY AND ACCEPTANCE
+Hand-overs
+Packaging
+Transportation
+Documents to be enclosed to each Delivery
+Place and Time of Delivery
+Acceptance of Supply
+PRICES
+EARLY TERMINATION
+TERMINATION FOR CAUSE
+SUPPLIER'S LIABILITY AND GUARANTEES
+Quantity Guarantee
+Quality Guarantee
+Measures to be taken in the event of Non Conformity
+2-13
+T Y R E
+9.4. Liability for Non Conformity with Agreements - Recall
+9.5. Insurance
+9.6. Suspension of payments
+9.7. Certification of the Supplier
+1. GENERAL
+1.1. Definitions
+In the context of these general conditions of Purchase (hereinafter referred to as the "General
+Conditions"), the following terms shall have the meaning specified and assigned to each of them
+below:
+(1) The term "Pirelli" shall mean Pirelli Tyre S.p.A.,
+(2) The term “Affiliate” shall mean any companies of the Pirelli Group (the “Pirelli Group”
+means all companies directly or indirectly controlled by Pirelli & C. S.p.A. and their
+connected or controlled companies);
+(3) The term "Material" shall mean all raw materials to be used in the manufacture of tyres
+(including, but not limited to, chemicals, reinforcement and other loads, polymers, woven
+products, textiles, metallic strengthening elements), semi-finished products, and auxiliary
+materials;
+(4) The term "Partial Delivery" shall mean every individual delivery of materials to Pirelli
+and/or the Affiliates by the Supplier;
+(5) For each Material, the term "Production Batch" shall mean a quantity consecutively made,
+under the same manufacturing conditions using qualitatively homogenous materials and, for
+ongoing productions, in a period of no more than 24 hours;
+(6) The term "Product" shall mean tyres and parts thereof made by Pirelli or by a third party on
+Pirelli's behalf for which a Material is to be delivered;
+(7) The terms "Conformity with Agreements " or "in Conformity with Agreements " referred to
+Materials shall mean
+(i) conformity with Technical Documents, or
+(ii) having no Defects, or
+(iii) conformity with the samples or models provided by the Supplier;
+(8) The term "Defect" shall mean any circumstance which makes the Material or the Product
+unsuitable for the use for which it was destined, and/or which does not provide the safety
+which Pirelli and current applicable law requires. For example, Defects may be faults, quality
+shortcomings, unreliability and/or non-conformity with agreements, the presence in the
+Material of foreign bodies, water, mould, or stains.
+(9) The term “Supplier” shall mean any party which is requested by Pirelli to make a supply of
+Material under an Contract;
+(10) The term "Technical Information" shall mean any type of technical information outside the
+public domain because of breaches by the Supplier of the requirements of Sections 1 and 2
+(see below), including – but not limited to – drawings, specifications, tables, models, samples,
+prototypes, methods, measuring instruments, or data bases, which Pirelli gives or makes
+available to the Supplier for the production of a Material and/or any relative prototypes and/or
+equipment.
+(11) The term "Technical Document " shall mean Technical Information including, by way of
+example, (i) technical specifications issued by Pirelli and sent to the Supplier for the purposes
+of detailing the Material, (ii) documents about methods for detailing values used in a technical
+3-13
+T Y R E
+specification, and (iii) written information about Material approval, transport, and delivery
+procedures;
+(12) The term "Order" shall mean a purchase order issued by Pirelli to the Supplier, whether in
+writing or not.
+1.2 Field of Application
+These General Conditions shall apply to all supplies of a Material provided by a Supplier to Pirelli
+and/or to any Affiliate indicated by Pirelli, in execution of contracts, which may also originate in
+confirmation – express or by means of conclusive acts – of Orders (hereinafter jointly referred to as
+“Contracts”).
+The Supplier therefore hereby explicitly waives application of its own general and specific conditions
+of sale.
+The details of Contracts and any deviations from these General Conditions shall have to be agreed on
+by the Parties in writing and shall apply to the specific case in relation to which they are agreed.
+1.3 Assignment of Contracts and Credits
+The Supplier may not transfer Contracts and the credits arising out of them; any amendments or
+additions must be made in writing, on pain of nullity, and will be limited to the specific case in
+relation to which they are agreed.
+1.4 Applicable Law and Jurisdiction
+All supplies of a Material shall be regulated by the law in force in the country of destination. Any
+disputes which may arise in relation to or consequently upon the supplies or the Contracts, their
+efficacy, validity, execution, interpretation, cancellation and cessation, and all relations referring to or
+connected with the Supplies and/or the Contracts, and all related credits and debts, shall fall under the
+exclusive jurisdiction of the Court of the country of destination of the Material.
+1.5 Confidentiality
+Unless previously agreed in writing with Pirelli, the Supplier agrees not to publicise its commercial
+relations with Pirelli and, in all cases, to treat as confidential all Technical Information and any other
+commercial information or other information concerning Pirelli, its materials, products, processes and
+activities which may come to its knowledge in relation to the execution of the Contracts
+(“Confidential Information”). In relation to Confidential Information, the Supplier agrees to use
+Technical Information only within the limits permitted by art. 2 below. The Supplier also agrees to
+restrict the disclosure of Confidential Information solely to those of its employees who need to know
+the Confidential Information for the purpose of these General Conditions and to advise such
+employees of the confidentiality requirement and limitations on use with respect to the Confidential
+Information.
+1.6. Information security
+The Supplier agrees to adopt all security measures required to prevent the risk of alteration, loss,
+destruction, dissemination or unauthorised use of Confidential Information.
+Pirelli will be entitled to notify the Supplier of security measures or conditions which Pirelli
+reasonably considers necessary to adopt, and the Supplier hereby agrees to adopt them.
+Pirelli shall have the right to verify - whether directly or through a third party - that the Supplier has
+correctly fulfilled all its obligations under this clause. In this regard, the Supplier hereby grants Pirelli
+the right to access, whether directly or through a third party, its premises, in order to verify its
+compliance with the requirements of this clause.
+4-13
+T Y R E
+1.7. Force Majeure
+Failure to fulfil its obligations on the part of a party impeded by circumstances which are objectively
+beyond that party’s control shall not constitute any default on the obligations undertaken in an Order.
+Events of force majeure shall include, by way of example, wars, fires, floods, general strikes 8which
+are not limited to the Supplier’s organisation), lock-outs, embargos, orders of public authorities, the
+impossibility of obtaining raw materials or energy for manufacture, manufacturing output shortcomings
+and, in general, any other causes beyond the control of the Supplier and/or Pirelli.
+1.8. Personal Data Notice (Art. 13 Legislative Decree n. 196 dated June 30 2003)
+Pirelli, for the sole purpose of carrying out the contractual relationship of supply/purchase, uses certain
+personal data of the Supplier which, while not mandatory, is necessary for execution of the Contracts.
+To this extent, the personal data of Supplier will be stored in the filing system of Pirelli Servizi
+Amministrazione e Tesoreria S.p.A.- administration area, a Pirelli affiliate which will act as
+personal data processor, and of Pirelli.
+Specifically, Supplier’s personal data include (by way of example and not exhaustively): company
+name, address, V.A.T. number, tax code, etc.
+Supplier’s personal data shall be provided only to those who work in Pirelli company processes
+(including the employees of the Affiliate which is the consignee of the Material) and who process them
+in fulfilment of specific legal obligations.
+The Supplier may exercise at any time the rights specified under art. 7 of Legislative Decree 196/2003
+(including, inter alia: the right to be informed at any time of the personal data in Pirelli’s possession
+and how it is used, having it updated, corrected or deleted for legitimate reasons, asking an updated list
+of all Supplier’s personal data processors), by contacting the Purchasing Department of Pirelli Tyre
+S.p.A.-Viale Sarca 222-20126 Milano (fax: +39 02 6442 3217 e-mail:
+privacy.purchasingtyres@pirelli.com).
+The main employees who will be in charge of the Supplier’s personal data processing will be as to
+Pirelli the employees of the following Departments: Purchasing and Administration and Control, as to
+Pirelli Servizi Amministrazione e Tesoreria S.p.A. the employees managing the suppliers’
+administration.
+1.9 Business Ethics and Corporate Responsibility
+1) The Supplier declares that it has read and is familiar with "The Values and Ethical Code" and the
+"Social Responsibility Policy for Health, Safety and Rights at Work, Environment of the Pirelli
+Group", published and available at
+http://www.it.pirelli.com/web/sustainability/sust_develop/policies/values/default.page which lay
+down the principles that guide Pirelli's management of its business and its dealings with third
+parties.
+2) In light of the foregoing, the Supplier undertakes, in connection with the execution of this contractual
+relationship:
+- not to use or support the use of child labour and forced labour;
+- to ensure equal opportunities and freedom of association, promoting individual development;
+- to reject the use of corporal punishment, mental or physical coercion, verbal abuse;
+- to comply with applicable laws and industry standards on working hours and to ensure that
+wages are sufficient to satisfy its staff's basic needs;
+- to establish and maintain appropriate procedures to evaluate and select suppliers and subsuppliers
+5-13
+T Y R E
+based on their social and environmental responsibility standards;
+- not to tolerate any kind of corruption in any form or manner, in any jurisdiction, even where such
+activities are customarily permitted, tolerated or not prosecuted;
+- to assess and reduce the environmental impact of its products and services throughout their life
+cycle;
+- to use resources responsibly, in line with the objective of achieving sustainable development,
+respecting the environment and the rights of future generations.
+The Supplier shall also require any subcontractors and subsuppliers to act in line with the conduct
+mentioned in the previous paragraph, and shall regularly monitor their actual compliance
+therewith.
+The Supplier hereby accepts that Pirelli shall be entitled, at all times, whether directly or via third
+parties, to check whether or not the Supplier has complied with the requirements accepted thereby
+under this clause.
+The Supplier undertakes to take all necessary measures to comply with the conduct mentioned in
+paragraph 2 of this clause if, after the checks mentioned in the foregoing paragraph, any nonconformities
+are discovered.
+The Parties agree that Pirelli may terminate the Contract by reason of the Supplier's default, by mere
+written communication sent to the other party if the latter breaches any provision of paragraph 2 of this
+clause.
+2. INDUSTRIAL PROPERTY RIGHTS
+2.1. Technical information
+Any Technical Information provided to or made available to the Supplier in any way shall remain the
+exclusive property of Pirelli. In relation to it the Supplier is required to:
+(a) safeguard it with the utmost care and confidentiality and return it to Pirelli upon its request,
+and in any event no later than the completion of the supply;
+(b) use it only for execution of the Contracts;
+(c) treat it separately and distinguish it as Pirelli’s property, both in its files and/or during its use;
+(d) not reproduce or copy it, except within the limitations authorised by Pirelli and not transmit it
+or reveal its content to third parties;
+(e) not seek for patents or any other form of r industrial or intellectual property rights; if
+nevertheless any of the foregoing have been sought, the Supplier shall transfer exclusive
+ownership to Pirelli;
+(f) not develop for a third party and/or supply to third parties, for whatsoever reason, whether
+directly or indirectly, products made using Technical Information;
+(g) impose the obligations arising under this article on any third party to which the Supplier needs
+to transmit the Technical Information to execute a Contract, and the Supplier shall guarantee
+such party’s compliance therewith.
+2.2. Supplier’s Industrial Property Rights
+The Supplier guarantees that the production and sale of Products made using the Materials does not
+constitute infringement of any industrial or intellectual property rights of any third parties, and the
+Supplier shall have the obligation to resolve at its costs any claims that may be put forward by any
+third parties and shall in any event indemnify Pirelli with respect to any such claims and shall protect
+Pirelli from any action that may prevent the free and unrestricted production, sale or use of the
+Products.
+Unless otherwise agreed in writing, the Supplier renounces claiming against Pirelli any industrial
+patent rights in relation to the Material to be supplied, and shall hold Pirelli harmless from any liability
+6-13
+T Y R E
+whatsoever relating to any infringement of any patent and/or trademark rights of third parties with
+respect to the Material supplied, which may be asserted against Pirelli as a result of use of the Material
+7-13
+T Y R E
+or sale of the Products. Unless expressly indicated to the Supplier prior to the signature of the
+Contracts, the Material supplied must be freely and without restriction exportable to the Country –
+identified in the Contract – where delivery is to take place.
+2.3 No license
+Neither the General Conditions, nor the disclosure of Confidential Information as envisaged herein,
+may be interpreted as granting the Supplier any licences to patents, patent applications, or any other
+industrial property rights, for information and data contained in the Confidential Information.
+2.4 Duration of confidential obligations and limitations of use
+The Supplier's requirements under the terms of Sections 1.6 and 2.1 shall continue to remain in force
+even after the expiry or suspension for any reason whatsoever of the Contractsr, for a period of ten (10)
+years.
+3. APPROVAL
+3.1. Materials Approval
+All Materials must be designated in advance by Pirelli as suitable for the manufacture of Products, by
+means of an in-house approvals procedure. Each and every approval shall only be applicable to the
+individual Material to which it refers, and may also be applicable to an individual factory or an
+individual manufacturing process.
+3.2. Changes
+No changes may be made by the Supplier to plans, processes, materials, and/or manufacturing
+allocation for the production of Material, nor to the methods or analyses used for designation, except
+where previously authorised in writing by Pirelli.
+3.3. Validity of Approval
+Except as otherwise specified in Section 3.4, Materials approval shall be applicable throughout the
+period of supply and for two (2) years thereafter, or for four (4) years for strengthening materials.
+3.4. Suspension and Cancellation of Approval
+Pirelli shall be entitled to suspend or revoke any approval, even before the period mentioned in Section
+3.3 has begun, if the Material is not wholly or partly in Conformity with Agreements or if the
+documents specified in Section 5 are missing or incomplete.
+4. QUALITY AND SAFETY
+4.1. Compliance with regulations in force in individual countries – Safety cards
+The Supplier hereby undertakes, in addition to all the tests and checks envisaged in the Technical
+Documents, to provide additional tests and checks in order to verify, certify, and guarantee the
+conformity of Material with current applicable laws in the countries where it is to be delivered.
+The Supplier hereby undertakes to send safety cards with the first delivery of Material; such cards
+must be drawn up pursuant to current applicable law in the countries where it is to be delivered and in
+8-13
+T Y R E
+the language of those countries. The Supplier furthermore undertakes to provide Pirelli with all the
+latest safety card information.
+4.2. Material Characteristics
+ Homogeneity
+Except where otherwise specified in writing by Pirelli, the Material supplied must be taken from
+Production Batches which comply with the Technical Documents, or to the individual specifications
+thereof.
+Each Delivery Lot must be taken from only one Production Batch, unless otherwise specified by Pirelli.
+ Integrity Materials must be complete and free of
+any Defects.
+ Storage Time
+Except where otherwise specified in writing by Pirelli, the maximum warehouse storage time for
+Material may never exceed 50% of its shelf life, as specified in the Technical Documents (or by the
+Supplier, if no such documents exist).
+4.3. Checks
+The Supplier hereby undertakes to implement and use manufacturing and control methods and
+processes to guarantee that all Materials shall be in Compliance with the Agreements.
+The Supplier furthermore undertakes to allow Pirelli staff or their delegates to make inspections,
+appraisals, and checks on the manufacturing processes, manufacturing methods, working, control,
+and/or testing methods put in place by the supplier.
+4.4. Analysis Certificate
+The Supplier hereby undertakes to certify the quality of each and every Production Batch of Material
+by enclosing among the documents sent out during deliveries (as required in Section 5.3) a certificate
+which guarantees that the Materials in each and every package sent to Pirelli are in Conformity with
+the Agreements and that, unless otherwise specified by Pirelli in the Technical Documents, the
+following information is provided:
+A)General information:
+ Supplier's Company Name
+ Factory
+ Commercial name of Material
+ Pirelli destination factory
+ Pirelli purchase order number
+ Technical specification code issued by Pirelli, with issue date and
+number  Material production date
+ Production Batch number/code, with bale identification
+numbers  Total net weight of Batch(es) supplied
+B) Average analytical data for Production Batch
+ Analytical data about characteristics classified as "C" and "M" in Technical Documents, with
+details of target values, tolerances (or acceptance intervals) and analytical methods used, which
+must comply with the aforementioned documents.
+The Analysis Certificates shall be delivered in original together with the delivery of the Material. The
+Supplier shall be required to send an advance copy of such certificates by facsimile machine or e-mail
+to the factory at least three (3) days before the Material is due to arrive.
+9-13
+T Y R E
+Delivery of the Analysis Certificate shall not bind Pirelli, who shall have the right not to accept the
+delivery of any Material to which these Certificates apply, until Pirelli have finished acceptance tests
+or the Supplier has solved any doubts or reserves which Pirelli may have. It is hereby agreed that any
+tests and checks carried out by Pirelli shall be without prejudice to the full and exclusive guarantee and
+liability of the Supplier to provide the Material, and for this to be in Compliance with the Agreements.
+4.5. Quality Level Reporting
+For each Production Batch sent to Pirelli and for each Pirelli factory, every six months the Supplier
+shall be required to send Pirelli's Central Quality Department a statistical analysis of the properties
+classified as "C" and "M" in the Technical Documents.
+This analysis shall always be applicable to January-June or July-December of each year, and shall be
+based upon the following indexes, calculated according to the technical specifications for the Material
+for which analysis is to be carried out:
+A) Cp and Cpk quality capacity indexes
+B) Pp and Ppk performance indexes
+4.6. Tracking and re-sampling
+The Supplier hereby undertakes to keep a register for identifying and designating all previous
+processing stages (in-house or by third parties) and for identifying each and every Production Batch.
+The Supplier hereby undertakes to keep samples from Production Batches for one (1) year from the
+date of delivery to Pirelli, so that Pirelli can carry out tests and analyses or have them carried out.
+5. DELIVERY AND ACCEPTANCE
+5.1. Hand-overs
+For the purposes of ascertaining compliance with deadlines for delivery and transfer of the risk of
+damage or total or partial loss of the Material from the Supplier to Pirelli, all deliveries must be made
+in compliance with the conditions specified in the "Incoterms 2000" regulations and set forth in the
+Contract.
+5.2. Packaging
+The Material shall be delivered in bales as per the type specified by Pirelli in the Technical Documents.
+Upon delivery, bales must be complete and in good general condition. In particular, by way of
+example, there must be no tears, shavings of paint or corrosive materials, extraneous bodies, rust, or
+traces of humidity, mould, or any type of stains or contamination.
+The Material must be identified by labels applied to the bale, which must provide – clearly and
+legibly - the following data:
+ Supplier's company name and production site
+ Commercial name of the Material and any international name of the Material (e.g. SBR
+1712)  Production Batch number to which the single bale belongs
+ Production date
+ Bale (progressive) number
+ Pirelli internal code
+5.3. Transportation
+The transportation of Material must be carried out in such a way as to protect it against damages, and
+especially to protect it against direct contact with atmospheric agents and direct sunlight.
+10-13
+T Y R E
+5.4 Documents to be enclosed to each delivery
+Shipping Bill: The Supplier shall enclose with each Delivery a Shipping Bill giving the following
+information, in addition to other information to be provided by law:
+ Commercial name of the Material and any other information specifically required by
+Pirelli  Production Batch number
+ Bale(s) number
+ Gross commercial weight
+ Total net weight
+ Means of transportation references
+Analysis Certificate: The Supplier shall enclose to each Delivery the corresponding Analysis
+Certificate, in accordance with the terms and conditions specified in Section 4.4.
+5.5 Place and Time of delivery
+Except where otherwise specified in writing, for the purposes of ascertaining compliance with the
+terms of delivery and risk transfer for damages of the total or partial loss of Materials from the
+Supplier to Pirelli, Materials are always to be understood as having been delivered to the Pirelli
+warehouses or to another place indicated by Pirelli in the Contract, even when transport costs are to be
+borne by Pirelli.
+The Supplier shall be required to comply punctually with the deadlines for delivery specified in the
+Contracts (which are to be considered essential to Pirelli's interests), and may not deliver the Materials
+either earlier or later than this. Pirelli shall have the option of returning any Deliveries made before the
+agreed delivery date, at the Supplier's expense, or charging the cost of storage and financial costs of
+the advance delivery period to the Supplier. Pirelli shall have the right to compensation for all and any
+damages caused to it directly or indirectly, including, but not limited to, loss of production, as a result
+of:
+a) late (or slightly late) delivery or failure to deliver on the part of the Supplier, or
+b) breach of any instruction expressly or implicitly indicated in the Contracts or the General
+Conditions, or
+c) the delivery of Material which is not in Compliance with the Agreements
+and/or to declare at any time the Ordercancelled in whole or in part or the Contract terminated, by
+written communication to the Supplier.
+Furthermore, if the supply must be delivered to a country other than the United Kingdom, the United
+States and Canada, in the event of late delivery attributable to the Supplier, Pirelli will have the right to
+request execution of the Contracts and apply a penalty for late delivery equal – unless otherwise
+specified in writing – to 1% of the complete week of delay up to a maximum of 10% of the price of the
+undelivered Materials by the agreed deadline.
+5.6. Acceptance of Supply
+The Supplier hereby undertakes to deliver Materials according to the terms and conditions of the
+Technical Documents mentioned in the Contract.
+No changes to the requirements of the Technical Documents and no delivery of Material will be
+allowed without Pirelli’s prior written authorisation.
+6. PRICES
+Unless otherwise agreed in writing, the prices indicated in the Contract are to be considered fixed and
+not subject to revision. In any case, any variations in price made for whatsoever reason shall only be
+11-13
+T Y R E
+valid and binding upon Pirelli if accepted by it in advance in writing.
+7. EARLY TERMINATION
+Unless otherwise agreed to in writing, Pirelli shall be entitled to early terminate any Contract at any
+time, provided that a written notification is given to Supplier at least thirty (30) days in advance. Upon
+early termination of an Contract, the Supplier shall not be entitled to any compensation, damage,
+indemnification whatsoever for termination, but the Supplier shall have the right to demand payment
+for the Partial Delivery already made to the benefit of Pirelli or of the Affiliate which was the
+consignee, as the case may be, up to the termination date.
+8. TERMINATION FOR CAUSE
+8.1 In the event of any breach by the Supplier of its obligations under the Contracts, Pirelli shall have
+the right, without prejudice to any additional remedies specified in the Contracts for specific cases,
+to send the Supplier a written order of fulfilment within a congruous time period, declaring that, if
+there has not been compliance by the end of such time period, then the contractual relationship
+shall be deemed terminated. Such time period shall not be less than 15 (fifteen) working days.
+8.2 In addition to the provisions of clause 8.1, PIRELLI shall be entitled to terminate a Contract at
+any time by sending the Supplier written notification effective as of a date identified by Pirelli
+in its notification, in the event that the Supplier:
+(a) enters into liquidation or is subject to any bankruptcy proceeding;
+(b) breaches any of its confidentiality obligations stated in clause 1.6;
+(c) becomes associated with or becomes subject to any form of control, even indirect, of any
+competitor of Pirelli;
+(d) breaches the prohibition of subcontracting stated in clause 1.10;
+(e) breaches the obligation not to transfer the Contracts and/or credits identified in clause 1.4;
+(f) is responsible for violation of any of the provisions of the Ethical Code
+(g) breaches any of its obligations stated in clause 1.14.
+8.3 Termination of the contractual relationship shall apply only in relation to supplies which have
+not yet been executed as of the date of such cancellation/termination.
+8.4 Termination of a Contract under the provisions of this clause and in all other cases shall not
+affect the Supplier’s obligations as stated in clauses 1.5 (applicable law and jurisdiction) and
+1.6 (confidentiality), which shall remain in effect beyond cancellation.
+8.5 Upon termination of a Contract, the Supplier shall not be entitled to any compensation, damage,
+indemnification for termination, but the Supplier shall have the right to demand payment for the
+Partial Delivery already made to the benefit of Pirelli or of the Affiliate which was the
+consignee, as the case may be, up to the termination date.
+9. SUPPLIER'S LIABILITY AND GUARANTEES
+9.1. Quantity Guarantee
+The Supplier hereby guarantees that the quantity of Material delivered corresponds to the quantity
+specified in the Contracts.
+12-13
+T Y R E
+The inspections referred to herein shall not in any way exempt or otherwise affect the obligations of
+the Supplier referred to in clause 9.
+If the quantities of Material delivered do not Comply with the Agreements, Pirelli may decide to:
+a) accept the quantities actually delivered and change the quantities of subsequent supplies
+accordingly;
+b) ask the Supplier to remove quantities in excess of the ordered quantities, and have the option of
+sending them back at the Supplier’s expense and charging the Supplier the financial costs of
+payment, if already made, and storage costs if the Supplier does not remove them immediately;
+c) have the Supplier immediately send the missing quantities of Goods, and to charge the Supplier
+for the costs and expenses resulting from defaulting.
+Pirelli shall be required to exercise the options listed above by no later than thirty (30) days of the date
+of delivery of the Material.
+Throughout the validity of a Contract which envisage Partial Deliveries, the Supplier shall keep
+sufficient stocks of Material in order to be ready to comply with Pirelli requirements of Materials, as
+set forth in the Contracts.
+9.2. Quality Guarantee
+The Supplier hereby additionally guarantees all Materials delivered as in Conformity with the
+Agreements, whether upon delivery to Pirelli premises, or during their use for the manufacture of
+Products, or, after that the Products incorporating the Materials have been put on the market, until the
+end of their guarantee as specified in current applicable law for the end user of the Materials as they
+have been incorporated into the Products.
+In the event of any Non-Conformity in the Materials, irrespective of the fact that the Non-Conformity
+with Agreements is detected or ascertained after delivery, Pirelli shall be entitled, at its sole option (i)
+to require the Materials are repaired, or restored to their proper condition, at the Supplier's expense, or
+(ii) to have a price reduction based on the diminished use or value of the Product as a result of the
+defect. If Pirelli decide to order the Materials to be repaired or replaced, any repairs or replacements
+must be completed by no later than the time specified by Pirelli. In addition Pirelli shall be entitled to
+cancel or suspend the execution of the Contract.
+Pirelli shall also be entitled to carry out further analyses on the Materials delivered at a later date
+following delivery.
+In the event of Defects or Non-Conformity with Agreements being detected during or following the
+manufacture of Products, the Supplier shall also be required to refund Pirelli for the costs arising out of
+rejects, re-processing, and repairing due to faulty Materials used in manufacturing the Products.
+The easements which Pirelli may avail themselves of under the terms and conditions of this paragraph
+shall not affect their statutory rights to seek compensation for other damages.
+9.3. Measures to be taken in the event of Non-Conformity
+In the event of claims arising from the Non-Conformity of Materials, the Supplier shall be required to
+notify Pirelli of corrective or remedial measures for future supplies of Materials, and to report Pirelli
+accordingly. If the corrective or remedial actions proposed by the Supplier are not, in the reasonable
+opinion of Pirelli, sufficient, Pirelli shall be entitled to suspend or cancel any Contract and the
+provisions of clause 8.2 shall apply.
+In addition to the terms and conditions of clause 8.2, Pirelli shall be entitled to suspend payments
+relevant to Materials which are not in Conformity with Agreements, until the Supplier has
+implemented the aforesaid remedial or corrective measures.
+13-13
+T Y R E
+9.4. Liability for Non Conformity with Agreements - Recall
+The Supplier shall hold harmless and indemnify Pirelli and the Affiliates from and against any claim,
+demand or action by third parties which arise from, or is a consequence of, a non Conformity with
+Agreements.
+Pirelli shall notify the Supplier in writing of any claims.
+If Pirelli either is requested by any applicable law, or it deems, at its own discretion, that it is proper to
+conduct Products’ recall,improvement or service campaigns due to Products incorporating materials
+which are not in Conformity with Agreements (even if they arise after the guarantee has expired), then
+the Supplier shall bear and reimburse Pirelli for any and all direct costs the Supplier shall be required
+to indemnify Pirelli and/or the relevant Affiliates for any costs and expenses associated with such
+campaigns (e.g. manufacturing, assembly, dismantling, packaging, delivery, and transport costs for
+replacement Products, and likewise costs arising out of the recall and any damages arising out of
+injuries to third parties).
+9.5 Insurance
+The Supplier shall maintain through a leading company, a product liability insurance for an adequate
+sum (such policy shall include Pirelli and the relevant Affiliates as additional named insured), for the
+damages caused in respect of any losses borne by third parties and/or any damages caused to third
+parties due to defective Products caused by the Materials used in the manufacture of Products.
+The Supplier hereby undertakes to pay all premiums (giving relevant evidence to Pirelli) for insurance
+cover, to notify Pirelli that such an insurance policy has been signed before deliveries commence, and
+likewise to make prompt notification to Pirelli of any changes which may be made to any such
+insurance policy.
+It is to be understood that, except where otherwise agreed to by both parties, insurance cover shall
+never be less than ten million euros (€10,000,000).
+9.6 Suspension of payments
+In all cases of default by the Supplier, including defective or late services, late delivery or the delivery
+of defective Materials, Pirelli shall be entitled to withhold payments due to the Supplier, without any
+interest, until the Supplier has remedied the defaults or provided appropriate assurance of its ability to
+comply in conformity with the terms of the Contract.
+9.7 Certification of the Supplier
+Unless otherwise stated in the Contract, the Supplier must demonstrate its conformity with ISO 9001
+certification through an accredited agency.
+Additionally, ISO/TS 16949 certification is strongly recommended.
+For and on behalf of the Supplier (stamp and signature)
+14-13
+T Y R E
+We specifically approve, pursuant to articles 1341 and 1342 of the Italian Civil Code and for the
+purposes thereof:
+1.2 Field of application
+1.3 Assignment of Contracts and credits
+1.4 Applicable law and jurisdiction
+1.5 Confidentiality
+1.6 Information security
+2.1 Technical information
+2.2 Supplier’s Industrial Property Rights
+2.4 Duration of confidential obligations and limitations of use
+3. Approval
+4. Quality and Safety
+5. Delivery and acceptance
+7. Early Termination
+8. Termination for cause
+9.1 Quantity Guarantee
+9.2 Quality Guarantee
+9.3 Measures to be taken in the event of Non-Conformity
+9.4 Liability for Non-Conformity with Agreements - Recall
+9.5 Insurance
+9.6 Suspension of payments
+For and on behalf of the Supplier (stamp and signature)

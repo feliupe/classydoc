@@ -1,0 +1,33 @@
+Contract for Rental of Real Property
+
+This contract is made on MM/DD/YY, between _____________________ (hereafter "Landlord") and _____________________ (hereafter "Tenant"). Landlord hereby agrees to rent to Tenant the property located at _____________________________ under the following terms:
+
+This agreement is a fixed-term lease beginning on MM/DD/YY and ending on MM/DD/YY. It shall be converted automatically to a month-to-month lease upon expiration of the lease term, unless either party notifies the other in writing at least 30 days prior to the lease's expiration that the party does not wish the lease to continue.
+
+1. Tenant shall pay Landlord $X on the 1st day of each month for rent of that month. Payment shall be in the form of personal check, cashier's check, or money order only, and shall be delivered by hand to Landlord or via U. S. Mail addressed to ____________________________________________.
+
+2. If payment is not received by Landlord by the end of the month's 3rd day, Tenant shall pay a $X late fee plus $Y for each additional day that payment is late.
+
+3. If Tenant's personal check is returned or dishonored, Tenant shall pay $X for servicing of the bad check plus any applicable late fees, and all future payments shall be made by money order or cashier's check.
+
+4. Tenant shall pay a security deposit of $X prior to moving into the property, and Landlord shall hold this deposit in trust during the lease term. Interest shall not accrue on the deposit while it is in the Landlord's trust. No more than X days following Tenant's vacating of the property, Landlord shall return to Tenant the deposit less any charges for damages or cleaning of the property.
+
+5. No person(s) other than Tenant and ___________________________ shall occupy the property for more than X consecutive days without the Landlord's written permission. Additional rent may be charged for such occupancy.
+
+6. Tenant hereby acknowledges receipt of the property in good condition, with any exceptions noted on the attached Move-In Inspection form. Tenant agrees to leave the property in the same condition in which it was received or pay the Landlord's costs of restoring the property to that condition.
+
+_____________________________________
+
+Tenant's signature, date
+
+_________________________________
+
+Landlord's Name
+
+_____________________________________
+
+Client's printed name
+
+_________________________________
+
+Landlord's address, city, state, ZIP code

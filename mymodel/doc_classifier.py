@@ -12,6 +12,7 @@ from sklearn import datasets
 from sklearn.feature_extraction.text import TfidfTransformer
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.externals import joblib
+from sklearn.pipeline import Pipeline
 
 class DocClassifier(Base):
 
@@ -32,18 +33,16 @@ class DocClassifier(Base):
 
         self.dataset = datasets.load_files(self.training_data_path, encoding="unicode_escape")
 
-        #Text preprocessing, tokenizing and filtering of stopwords
-        count_vect = CountVectorizer()
-        dataset_counts = count_vect.fit_transform(self.dataset.data)
+        text_clf = Pipeline([('vect', CountVectorizer()),
+                             ('tfidf', TfidfTransformer()),
+                             ('clf', MultinomialNB()),
+        ])
 
-        #Transform
-        tf_transformer = TfidfTransformer(use_idf=False)
-        dataset_tf = tf_transformer.transform(dataset_counts)
-
-        #Training
-        self.classifier = MultinomialNB().fit(dataset_tf, self.dataset.target)
+        text_clf.fit(self.dataset.data, self.dataset.target)
 
         self.categories = self.dataset.target_names
+
+        self.classifier = text_clf
 
         return self.classifier
 
@@ -55,20 +54,13 @@ class DocClassifier(Base):
 
         return self.classifier
 
-
     #TODO: understand -> fix
     def predict(self, fd):
         fd.seek(0)
-        count_vect = CountVectorizer()
-        count_vect.fit_transform(self.dataset.data)
 
-        new_dataset_counts = count_vect.transform([fd.read()])
-        tf_transformer = TfidfTransformer(use_idf=False)
-        new_dataset_tf = tf_transformer.transform(new_dataset_counts)
-
-        predicted = self.classifier.predict(new_dataset_counts)
+        predicted = self.classifier.predict([fd.read()])
 
         return predicted[0]
 
-    def category(category_number):
-        return categories[category_number]
+    def category(self, category_number):
+        return self.categories[category_number]

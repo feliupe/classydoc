@@ -25,7 +25,8 @@ class ApiTestCase(unittest.TestCase):
         dc.store_classifier()
 
         #TODO: look for better test
-        self.assertTrue(self.comp_np_dicts(dc.load_classifier().__dict__, clf.__dict__))
+        #self.assertTrue(self.comp_np_dicts(dc.load_classifier().__dict__, clf.__dict__))
+        self.assertEqual(dc.load_classifier().__dict__, clf.__dict__)
 
 if __name__ == '__main__':
     unittest.main()

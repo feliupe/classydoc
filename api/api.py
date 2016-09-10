@@ -7,6 +7,7 @@ from functools import wraps
 from flask import request, Response, Flask, abort, jsonify
 from mymodel.user import User
 from mymodel.document import Document
+from mymodel.doc_classifier import DocClassifier
 from sqlalchemy.orm import sessionmaker
 from datetime import datetime, timedelta
 
@@ -109,9 +110,17 @@ def get_document_list(id):
 @requires_token
 def send_documents(id):
 
+    dc = DocClassifier()
+    dc.load_classifier()
+
     for f in request.files:
         file = request.files[f]
         doc = Document(name=file.filename, user_id=id)
-        doc.save(file.read().decode('utf-8'))
+        text = file.read().decode('utf-8')
+        doc.category = dc.category(dc.predict(text=text))
+        doc.save(text)
+        session.add(doc)
+
+    session.commit()
 
     return Response('Files stored', 200)

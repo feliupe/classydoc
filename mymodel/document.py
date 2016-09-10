@@ -26,6 +26,10 @@ class Document(Base):
         api.session.add(self)
         api.session.commit()
 
+    def text(self):
+        with open(self._file_path(self.name), encoding="utf-8") as stream:
+            return stream.read()
+
     def _user_dir(self):
         return os.path.join(self.documents_path, str(self.user_id))
 
